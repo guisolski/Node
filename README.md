@@ -1,2 +1,2 @@
 # Node--Rect--RectNative
- Study this tecnologis
+ Study developing simple backEnd in NodeJs
